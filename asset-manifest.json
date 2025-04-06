@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/intelligent-seat-allocation/static/js/main.c060a6c3.js",
+    "static/js/453.fdf04a3d.chunk.js": "/intelligent-seat-allocation/static/js/453.fdf04a3d.chunk.js",
+    "index.html": "/intelligent-seat-allocation/index.html",
+    "main.c060a6c3.js.map": "/intelligent-seat-allocation/static/js/main.c060a6c3.js.map",
+    "453.fdf04a3d.chunk.js.map": "/intelligent-seat-allocation/static/js/453.fdf04a3d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c060a6c3.js"
+  ]
+}
